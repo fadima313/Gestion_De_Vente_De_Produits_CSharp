@@ -1,0 +1,6 @@
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\bin\Debug\Projet  5.exe.config
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\bin\Debug\Projet  5.exe
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\bin\Debug\Projet  5.pdb
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\obj\Debug\Projet  5.csprojResolveAssemblyReference.cache
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\obj\Debug\Projet  5.exe
+C:\Users\bmd-tech\Documents\ESMT\cours Projet C#\Projet  5\Projet  5\obj\Debug\Projet  5.pdb
